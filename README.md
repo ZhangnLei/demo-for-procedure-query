@@ -10,8 +10,12 @@ Spring Data Jpa调用存储过程返回结果集
     然后运行项目
     
     刷新数据库出现表student，在表中添加几条数据
+
+![数据](https://github.com/ZhangnLei/demo-for-procedure-query/blob/master/src/main/resources/static/student.png)
     
     访问：http://127.0.0.1:8888/getStudent
+    
+![访问地址的结果](https://github.com/ZhangnLei/demo-for-procedure-query/blob/master/src/main/resources/static/postman.png)
     
     如有问题可邮件咨询：stephen-read@outlook.com
 
